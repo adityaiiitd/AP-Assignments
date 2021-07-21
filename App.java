@@ -1,6 +1,6 @@
 package Mouse;
 import java.util.*;
-
+//Assignment 2
 interface User{
     public void printRewards();
     public void printDetails();
