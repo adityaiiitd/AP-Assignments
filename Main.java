@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
 
-
+//Assignment 3
 //n - input which is num of players
 
 // Types of players:
