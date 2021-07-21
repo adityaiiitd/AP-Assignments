@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//Assignment 1
 class Cordinator{
 
 
